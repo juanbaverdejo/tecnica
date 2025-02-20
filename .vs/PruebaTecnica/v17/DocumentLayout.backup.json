@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\operaciones\\balance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\balance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\tarjeta\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,37 +86,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "TarjetasController.cs",
               "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\TarjetasController.cs",
               "RelativeDocumentMoniker": "Controllers\\TarjetasController.cs",
               "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\TarjetasController.cs",
               "RelativeToolTip": "Controllers\\TarjetasController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T20:47:22.857Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\datos\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "datos\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\datos\\ApplicationDbContext.cs",
-              "RelativeToolTip": "datos\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T02:12:45.483Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Operacion.cs",
               "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Models\\Operacion.cs",
               "RelativeDocumentMoniker": "Models\\Operacion.cs",
@@ -128,7 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:12:45.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "OperacionesController.cs",
               "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\OperacionesController.cs",
               "RelativeDocumentMoniker": "Controllers\\OperacionesController.cs",
@@ -152,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Balance.cshtml",
               "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\Balance.cshtml",
               "RelativeDocumentMoniker": "Views\\Operaciones\\Balance.cshtml",
@@ -200,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Tarjeta.cs",
               "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Models\\Tarjeta.cs",
               "RelativeDocumentMoniker": "Models\\Tarjeta.cs",
