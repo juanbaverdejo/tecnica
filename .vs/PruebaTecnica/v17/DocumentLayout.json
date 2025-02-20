@@ -1,81 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\",
+  "WorkspaceRootPath": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\models\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:models\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\models\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:models\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\operaciones\\balance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\balance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\tarjeta\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\tarjeta\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\tarjeta\\ingresarpin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\tarjeta\\ingresarpin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\operaciones\\reporteoperacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\reporteoperacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\operaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\operaciones\\retiro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\retiro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\juanba\\desktop\\prueba tecnica\\pruebatecnica\\migrations\\20250220021930_fechavencimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\models\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:models\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\operaciones\\balance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\balance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\tarjeta\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\tarjeta\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\tarjeta\\ingresarpin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\tarjeta\\ingresarpin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\operaciones\\reporteoperacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\reporteoperacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\operaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\operaciones\\retiro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\operaciones\\retiro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|c:\\users\\diec6\\desktop\\nueva carpeta (2)\\migrations\\20250220021930_fechavencimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98243EBD-94B9-4461-98E3-B83A524DC54B}|PruebaTecnica.csproj|solutionrelative:migrations\\20250220021930_fechavencimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -85,29 +73,16 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 229,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 532,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TarjetasController.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\TarjetasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TarjetasController.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\TarjetasController.cs",
-              "RelativeToolTip": "Controllers\\TarjetasController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:47:22.857Z",
-              "IsPinned": true
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Operacion.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Models\\Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Models\\Operacion.cs",
               "RelativeDocumentMoniker": "Models\\Operacion.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Models\\Operacion.cs",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Models\\Operacion.cs",
               "RelativeToolTip": "Models\\Operacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,11 +91,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\datos\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\datos\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "datos\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\datos\\ApplicationDbContext.cs",
               "RelativeToolTip": "datos\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Balance.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\Balance.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Operaciones\\Balance.cshtml",
               "RelativeDocumentMoniker": "Views\\Operaciones\\Balance.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\Balance.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Operaciones\\Balance.cshtml",
               "RelativeToolTip": "Views\\Operaciones\\Balance.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -153,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -165,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAB4AAAAAAAAAAAAUwEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -177,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Tarjeta\\Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Tarjeta\\Home.cshtml",
               "RelativeDocumentMoniker": "Views\\Tarjeta\\Home.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Tarjeta\\Home.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Tarjeta\\Home.cshtml",
               "RelativeToolTip": "Views\\Tarjeta\\Home.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -189,49 +164,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tarjeta.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Models\\Tarjeta.cs",
-              "RelativeDocumentMoniker": "Models\\Tarjeta.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Models\\Tarjeta.cs",
-              "RelativeToolTip": "Models\\Tarjeta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:22:41.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDUAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T21:00:32.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OperacionesController.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\OperacionesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OperacionesController.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Controllers\\OperacionesController.cs",
-              "RelativeToolTip": "Controllers\\OperacionesController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAEwDEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:18:26.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "20250220021930_fechavencimiento.cs",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Migrations\\20250220021930_fechavencimiento.cs",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Migrations\\20250220021930_fechavencimiento.cs",
               "RelativeDocumentMoniker": "Migrations\\20250220021930_fechavencimiento.cs",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Migrations\\20250220021930_fechavencimiento.cs",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Migrations\\20250220021930_fechavencimiento.cs",
               "RelativeToolTip": "Migrations\\20250220021930_fechavencimiento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,11 +189,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "IngresarPIN.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Tarjeta\\IngresarPIN.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Tarjeta\\IngresarPIN.cshtml",
               "RelativeDocumentMoniker": "Views\\Tarjeta\\IngresarPIN.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Tarjeta\\IngresarPIN.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Tarjeta\\IngresarPIN.cshtml",
               "RelativeToolTip": "Views\\Tarjeta\\IngresarPIN.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -251,11 +201,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Retiro.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\Retiro.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Operaciones\\Retiro.cshtml",
               "RelativeDocumentMoniker": "Views\\Operaciones\\Retiro.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\Retiro.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Operaciones\\Retiro.cshtml",
               "RelativeToolTip": "Views\\Operaciones\\Retiro.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwCMAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -263,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "ReporteOperacion.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\ReporteOperacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Operaciones\\ReporteOperacion.cshtml",
               "RelativeDocumentMoniker": "Views\\Operaciones\\ReporteOperacion.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\ReporteOperacion.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Operaciones\\ReporteOperacion.cshtml",
               "RelativeToolTip": "Views\\Operaciones\\ReporteOperacion.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -275,11 +225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Operaciones\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Operaciones\\Index.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Operaciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Operaciones\\Index.cshtml",
               "RelativeToolTip": "Views\\Operaciones\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -287,11 +237,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -299,11 +249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -311,15 +261,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\juanba\\Desktop\\prueba tecnica\\PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\diec6\\Desktop\\Nueva carpeta (2)\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T20:45:19.618Z"
+              "WhenOpened": "2025-02-19T20:45:19.618Z",
+              "EditorCaption": ""
             }
           ]
         }
