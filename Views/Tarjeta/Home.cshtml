@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <h2>Ingrese su número de tarjeta y PIN</h2>
+
+        @if (ViewBag.MensajeError != null)
+        {
+            <div class="alert alert-danger">
+                @ViewBag.MensajeError
+            </div>
+        }
+
+        <form asp-action="ValidarTarjeta" method="post">
+            <div class="form-group">
+                <label for="numeroTarjeta">Número de Tarjeta:</label>
+                <input type="text" id="numeroTarjeta" name="numeroTarjeta" class="form-control" maxlength="19" required />
+            </div>
+            <div class="buttons">
+                <button type="submit" class="btn btn-primary">Aceptar</button>
+                <button type="button" class="btn btn-secondary" onclick="limpiarCampos()">Limpiar</button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        // Función para limpiar los campos del formulario
+        function limpiarCampos() {
+            document.getElementById("numeroTarjeta").value = ""; // Limpiar el campo de número de tarjeta
+            document.getElementById("pin").value = ""; // Limpiar el campo de PIN
+        }
+
+        // Función para formatear el número de tarjeta en grupos de 4 dígitos
+        function formatearNumeroTarjeta(input) {
+            // Eliminar todos los caracteres que no sean dígitos
+            let valor = input.value.replace(/\D/g, '');
+
+            // Insertar guiones cada 4 dígitos
+            valor = valor.replace(/(\d{4})(?=\d)/g, '$1-');
+
+            // Actualizar el valor del campo
+            input.value = valor;
+        }
+
+        // Asignar la función al evento "input" del campo de número de tarjeta
+        document.getElementById("numeroTarjeta").addEventListener("input", function () {
+            formatearNumeroTarjeta(this);
+        });
+    </script>
+</body>
+</html>

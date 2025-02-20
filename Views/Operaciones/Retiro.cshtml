@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Retiro";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <h2>Retiro de Dinero</h2>
+
+        @if (TempData["MensajeError"] != null)
+        {
+            <div class="alert alert-danger">
+                @TempData["MensajeError"]
+            </div>
+        }
+
+        <form asp-action="RealizarRetiro" method="post">
+            <input type="hidden" name="tarjetaId" value="@ViewBag.TarjetaId" />
+            <div class="form-group">
+                <label for="monto">Monto a retirar:</label>
+                <input type="number" id="monto" name="monto" class="form-control" step="0.01" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Aceptar</button>
+            <button type="button" class="btn btn-secondary" onclick="limpiarCampos()">Limpiar</button>
+        </form>
+
+        <div class="buttons">
+            <a asp-action="Index" asp-route-tarjetaId="@ViewBag.TarjetaId" class="btn btn-secondary">Atrás</a>
+        </div>
+    </div>
+    <script>
+        function limpiarCampos() {
+            document.getElementById("monto").value = "";
+        }
+    </script>
+</body>
+</html>

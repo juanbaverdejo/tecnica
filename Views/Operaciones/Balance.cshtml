@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Balance";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <h2>Balance Actual</h2>
+        <p><strong>Número de Tarjeta:</strong> @ViewBag.NumeroTarjeta</p>
+        <p><strong>Fecha de Vencimiento:</strong> @ViewBag.FechaVencimiento</p>
+
+        <div class="balance-info">
+            <p>Su balance actual es: <strong>@ViewBag.Balance.ToString("C")</strong></p>
+        </div>
+
+        <div class="buttons">
+            <a asp-action="Index" asp-route-tarjetaId="@ViewBag.TarjetaId" class="btn btn-primary">Atrás</a>
+            <a asp-action="Home" asp-controller="Tarjeta" class="btn btn-secondary">Salir</a>
+
+        </div>
+    </div>
+</body>
+</html>

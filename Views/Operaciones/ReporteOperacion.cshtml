@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Reporte de Operación";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <h2>Reporte de Operación</h2>
+
+        <div class="reporte-info">
+            <p><strong>Número de Tarjeta:</strong> @ViewBag.NumeroTarjeta</p>
+            <p><strong>Fecha y Hora:</strong> @ViewBag.FechaHora</p>
+            <p><strong>Cantidad Retirada:</strong> @ViewBag.MontoRetirado.ToString("C")</p>
+            <p><strong>Balance Actual:</strong> @ViewBag.BalanceActual.ToString("C")</p>
+        </div>
+
+        <div class="buttons">
+            <a asp-action="Index" asp-route-tarjetaId="@ViewBag.TarjetaId" class="btn btn-primary">Atrás</a>
+        </div>
+    </div>
+</body>
+</html>

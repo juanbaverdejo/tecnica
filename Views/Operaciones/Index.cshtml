@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Operaciones";
+    Layout = null; // No usamos un layout para esta vista
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" /> <!-- Asegúrate de que la ruta del CSS sea correcta -->
+</head>
+<body>
+    <div class="container">
+        <h2>Seleccione una operación</h2>
+
+        <!-- Botones para las operaciones -->
+        <div class="buttons">
+            <a asp-action="Balance" asp-route-tarjetaId="@ViewBag.TarjetaId" class="btn btn-primary">Balance</a>
+            <a asp-action="Retiro" asp-route-tarjetaId="@ViewBag.TarjetaId" class="btn btn-primary">Retiro</a>
+        </div>
+
+        <!-- Botón para salir -->
+        <div class="buttons">
+            <a asp-action="Home" asp-controller="Tarjeta" class="btn btn-secondary">Salir</a>
+        </div>
+    </div>
+</body>
+</html>

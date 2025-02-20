@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PruebaTecnica</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PruebaTecnica.styles.css" asp-append-version="true" />
+</head>
+<body>
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h2>Ingrese su PIN</h2>
+<form asp-action="ValidarPIN" method="post">
+    <input type="hidden" name="tarjetaId" value="@ViewBag.TarjetaId" />
+    <input type="text" name="pin" maxlength="4" required />
+    <button type="submit">Aceptar</button>
+</form>
+</body>
+</html>

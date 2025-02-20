@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Error";
+    Layout = null; 
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" /> 
+</head>
+<body>
+    <div class="container">
+        <h2>Error</h2>
+
+
+        <div class="alert alert-danger">
+            @ViewBag.mensaje
+        </div>
+
+        <a asp-action="Home" class="btn btn-primary">Volver al Inicio</a>
+    </div>
+</body>
+</html>

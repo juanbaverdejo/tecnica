@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Ingresar PIN";
+    Layout = null; // No usamos un layout para esta vista
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" /> <!-- Asegúrate de que la ruta del CSS sea correcta -->
+    <style>
+        .keyboard {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 5px;
+            margin-top: 10px;
+            justify-content: center;
+            max-width: 150px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .key {
+            width: 45px;
+            height: 45px;
+            font-size: 14px;
+            text-align: center;
+            line-height: 45px;
+            border: 1px solid #ccc;
+            cursor: pointer;
+            background-color: #e0e0e0;
+            border-radius: 5px;
+        }
+
+            .key:hover {
+                background-color: #ccc;
+            }
+
+            .key.zero {
+                grid-column: span 2;
+            }
+
+            .key.clear {
+                background-color: #ff6666;
+                color: white;
+            }
+
+                .key.clear:hover {
+                    background-color: #cc0000;
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Ingrese su PIN</h2>
+
+        <!-- Mostrar mensajes de error -->
+        @if (ViewBag.MensajeError != null)
+        {
+            <div class="alert alert-danger">
+                @ViewBag.MensajeError
+            </div>
+        }
+
+        <!-- Formulario para ingresar el PIN -->
+        <form asp-action="ValidarPIN" method="post">
+            <input type="hidden" name="tarjetaId" value="@ViewBag.TarjetaId" />
+            <div class="form-group">
+                <label for="pin">PIN:</label>
+                <input type="password" id="pin" name="pin" class="form-control" maxlength="4" required readonly />
+            </div>
+            <div class="keyboard">
+                <div class="key" onclick="addNumber(1)">1</div>
+                <div class="key" onclick="addNumber(2)">2</div>
+                <div class="key" onclick="addNumber(3)">3</div>
+                <div class="key" onclick="addNumber(4)">4</div>
+                <div class="key" onclick="addNumber(5)">5</div>
+                <div class="key" onclick="addNumber(6)">6</div>
+                <div class="key" onclick="addNumber(7)">7</div>
+                <div class="key" onclick="addNumber(8)">8</div>
+                <div class="key" onclick="addNumber(9)">9</div>
+                <div class="key zero" onclick="addNumber(0)">0</div>
+                <div class="key clear" onclick="clearInput()">⌫</div>
+            </div>
+            <button type="submit" class="btn btn-primary">Aceptar</button>
+        </form>
+    </div>
+    <script>
+        function addNumber(num) {
+            let input = document.getElementById('pin');
+            if (input.value.length < 4) {
+                input.value += num;
+            }
+        }
+        function clearInput() {
+            let input = document.getElementById('pin');
+            input.value = input.value.slice(0, -1);
+        }
+    </script>
+</body>
+</html>
